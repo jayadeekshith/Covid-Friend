@@ -1,0 +1,2 @@
+Using this you can analyze the world covid data and and send alerts and daily data updates to the 
+people using whatsapp application or email.
